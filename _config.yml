@@ -1,13 +1,13 @@
 # Site settings
-title: Identity
-email: youremailaddress@gmail.com
+title: Glynis Brown Mattheisen
+email: gmattheisen@gmail.com
 description: The Jekyll version of the Identity theme by HTML5 UP.
 baseurl: "/identity-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Identity
-your-name: Jane Doe
-your-title: Senior Psychonautics Engineer
+your-name: Glynis Brown Mattheisen
+your-title: Neuroscientist
 
 # Social settings
 500px_url:
