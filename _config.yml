@@ -2,8 +2,8 @@
 title: Glynis Brown Mattheisen
 email: gmattheisen@gmail.com
 description: The Jekyll version of the Identity theme by HTML5 UP.
-baseurl: "/identity-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/glynislovesstormy" # the subpath of your site, e.g. /blog
+url: "http://glynislovesstormy.github.io" # the base hostname & protocol for your site
 
 # Identity
 your-name: Glynis Brown Mattheisen
